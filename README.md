@@ -31,11 +31,12 @@ Storybook is a desktop application that transforms storytelling into an interact
 - Character sheet that evolves with your story
 - Detailed session summaries and chronicles
 
-### 🎨 **Beautiful Interface**
+### 🎨 **Immersive Interface**
 - Modern, immersive UI design
 - Responsive layout that works on all screen sizes
 - Custom cursor and visual effects
 - Dark theme optimized for storytelling
+- Dynamic ambience, audio, and video
 
 ## 🚀 Getting Started
 
@@ -72,6 +73,7 @@ Storybook is a desktop application that transforms storytelling into an interact
 - **Survival**: Tense stories where every choice matters
 - **Modern**: Contemporary settings with realistic drama
 - **General**: Adaptive storytelling that blends multiple genres
+- **Custom**: Add a custom genre
 
 ## 🔧 Features
 
@@ -80,12 +82,6 @@ Storybook is a desktop application that transforms storytelling into an interact
 - **Character Sheets**: Track your progress and inventory
 - **Story Summaries**: Review your journey with AI-generated chronicles
 - **Settings Customization**: Adjust audio, UI, and gameplay preferences
-
-### For Storytellers
-- **AI-Powered Narration**: Advanced language models create compelling stories
-- **Dynamic World Building**: Environments that evolve with your choices
-- **Character Consistency**: AI maintains character personalities and relationships
-- **Immersive Descriptions**: Rich, sensory storytelling that pulls you in
 
 ## 🛡️ Content & Safety
 
@@ -99,14 +95,6 @@ Storybook is a desktop application that transforms storytelling into an interact
 - **Automatic Updates**: Seamless updates with new features and improvements
 - **Active Development**: Regular updates and new content
 - **Community Support**: Join our community for tips and discussions
-
-## 📱 Technical Details
-
-- **Built with**: Electron, React, TypeScript
-- **AI Integration**: OpenAI GPT and Google Gemini
-- **Backend**: NestJS with MongoDB
-- **Audio**: Dynamic music and sound system
-- **Cross-Platform**: Windows, macOS, and Linux support
 
 ## 🎉 Start Your Adventure
 
